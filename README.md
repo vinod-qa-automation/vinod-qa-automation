@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Vinod 👋
 
-<!--
-**vinod-qa-automation/vinod-qa-automation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Automation Engineer
 
-Here are some ideas to get you started:
+Skills:
+- Java
+- Selenium
+- TestNG
+- Rest Assured
+- API Testing
+- Git
+- Maven
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+- API Automation Framework
+- UI Automation Framework (In Progress)
+
+Tools:
+- Postman
+- Eclipse
+- GitHub
+
+Currently Learning:
+- Selenium UI Automation
+
+Contact:6363426881
+Email:vmsvinod3@gmail.com
