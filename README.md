@@ -22,6 +22,8 @@ Tools:
 
 Currently Learning:
 - Selenium UI Automation
+- Test Automation Framework Design
 
 Contact:6363426881
-Email:vmsvinod3@gmail.com
+Email: vmsvinod3@gmail.com
+Location: Bangalore
