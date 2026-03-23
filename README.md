@@ -12,7 +12,9 @@ Skills:
 - Maven
 
 Projects:
-- API Automation Framework
+
+- API Automation Framework  
+  https://github.com/vinod-qa-automation/api-automation
 - UI Automation Framework (In Progress)
 
 Tools:
