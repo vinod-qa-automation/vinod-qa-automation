@@ -26,4 +26,4 @@ Currently Learning:
 
 Contact:6363426881
 Email: vmsvinod3@gmail.com
-Location: Bangalore
+Location: Bangalore, India
