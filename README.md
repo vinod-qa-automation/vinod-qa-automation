@@ -1,6 +1,6 @@
 Hi, I'm Vinod 👋
 
-QA Automation Engineer
+Software Test Engineer | QA Automation Engineer
 
 Skills:
 - Java
@@ -13,9 +13,11 @@ Skills:
 
 Projects:
 
-- API Automation Framework  
+• UI Automation Framework – Selenium, TestNG, Java, Page Object Model  
+  https://github.com/vinod-qa-automation/shopperstack-automation-framework
+
+• API Automation Framework – Rest Assured, Java, TestNG  
   https://github.com/vinod-qa-automation/api-automation
-- UI Automation Framework (In Progress)
 
 Tools:
 - Postman
@@ -26,6 +28,5 @@ Currently Learning:
 - Selenium UI Automation
 - Test Automation Framework Design
 
-Contact:6363426881
 Email: vmsvinod3@gmail.com
 Location: Bangalore, India
